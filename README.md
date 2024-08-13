@@ -11,10 +11,10 @@
 
 
 **Features **
-1) User & Registetration System
-2) User Can add , Delete, & update User Information
-3) User Count with Diffrenet Login Details
-4) Search User By Name
-5) Pagination
+1) User login & Registreation System
+2) User Can add , Delete, & update , View User Information
+3) User Counts & contact Information  with Diffrenet Login Details
+4) Search contact Details By Name
+5) Pagination with React-bootsrap Table
+6) User Dashboard
 
-Contact_management_system
