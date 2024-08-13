@@ -12,7 +12,7 @@
 
 **Features **
 1) User login & Registreation System
-2) User Can add , Delete, & update , View User Information
+2) User Can add , Delete, & update , View User Contact Information
 3) User Counts & contact Information  with Diffrenet Login Details
 4) Search contact Details By Name
 5) Pagination with React-bootsrap Table
